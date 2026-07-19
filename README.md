@@ -1,2 +1,7 @@
-# Data_Analyst_Project
-Developed a comprehensive data analytics project using SQL, Power BI, and Excel. Created interactive dashboards and reports by analyzing data from multiple sources. Performed ETL (Extract, Transform, and Load), data cleaning, transformation, and visualization to generate actionable business insights.
+# Data_Analyst_Project(Interactive Dashboard creation using Excel and Power Bi
+
+## Project Objective:
+The objective of this project is to build an interactive healthcare dashboard that helps users monitor and analyze patient and hospital data in one place. The dashboard provides monthly and overall performance insights, allows users to drill down into individual patient details, and highlights key trends and findings. It enables healthcare professionals and management to make informed decisions by tracking important metrics, identifying patterns, and improving operational efficiency through data-driven insights.
+
+
+
