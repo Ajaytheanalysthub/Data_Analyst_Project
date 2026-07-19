@@ -46,30 +46,27 @@ Objective: Summarize the findings from all dashboards to provide clear and actio
 
 ## Process
 
--Requirement Gathering/ Business Requirements.
+- Requirement Gathering/ Business Requirements.
 
--Data Walkthrough.
+- Data Walkthrough.
 
--Data Connection.
+- Data Connection.
 
--Data Cleaning / Quality Check.
+- Data Cleaning / Quality Check.
 
--Data Modeling.
+- Data Modeling.
 
--Data Processing.
+- Data Processing.
 
--DAX Calculations.
+- DAX Calculations.
 
--Dashboard Lay outing.
+- Dashboard Lay outing.
 
--Charts Development and Formatting.
+- Charts Development and Formatting.
 
--Dashboard / Report Development.
+- Dashboard / Report Development.
 
--Insights Generation.
-
-
-Here is a concise, interview-friendly version:
+- Insights Generation.
 
 ## Project Insights
 •	 Identified monthly trends in patient visits and healthcare performance.
