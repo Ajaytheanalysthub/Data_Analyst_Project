@@ -15,6 +15,7 @@ The objective of this project is to build an interactive healthcare dashboard th
 <a href="https://github.com/Ajaytheanalysthub/Data_Analyst_Project/blob/main/Heathcare%20Project%20dashboard%20page%203.jpg">Snapshot View 3</a>
 <a href="https://github.com/Ajaytheanalysthub/Data_Analyst_Project/blob/main/Heathcare%20Project%20dashboard%20page%204.jpg">Snapshot View 4</a>
 
+
 ## HOSPITAL EMERGENCY ROOM DASHBOARD BUSINESS REQUIREMENTS
 
 ## KPI’s Requirements
