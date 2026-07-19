@@ -9,7 +9,7 @@ The objective of this project is to build an interactive healthcare dashboard th
 ## Dashboard Interaction 
 <a href="https://github.com/Ajaytheanalysthub/Data_Analyst_Project/blob/main/Healthcare%20Report%20Dashboard.pbit">View Dashboard</a>
 
-## Sanpshots of the Dashword
+## Dashboard Snapshot
 <a href="https://github.com/Ajaytheanalysthub/Data_Analyst_Project/blob/main/Heathcare%20Project%20dashboard%20Sheet%201.jpg">Snapshot View 1</a>
 <a href="https://github.com/Ajaytheanalysthub/Data_Analyst_Project/blob/main/Heathcare%20Project%20dashboard%20page%202.jpg">Snapshot View 2</a>
 <a href="https://github.com/Ajaytheanalysthub/Data_Analyst_Project/blob/main/Heathcare%20Project%20dashboard%20page%203.jpg">Snapshot View 3</a>
