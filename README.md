@@ -16,7 +16,7 @@ The objective of this project is to build an interactive healthcare dashboard th
 <a href="https://github.com/Ajaytheanalysthub/Data_Analyst_Project/blob/main/Heathcare%20Project%20dashboard%20page%204.jpg">Snapshot View 4</a>
 
 
-- ## HOSPITAL EMERGENCY ROOM DASHBOARD BUSINESS REQUIREMENTS
+## HOSPITAL EMERGENCY ROOM DASHBOARD BUSINESS REQUIREMENTS
 
 ## KPI’s Requirements
 To enhance operational efficiency and provide actionable insights into emergency room performance, we need to create a Hospital Emergency Room AnalysisDashboard in Power BI. This solution will enable stakeholders to track, analyze, and make data-driven decisions regarding patient management and service optimization.
