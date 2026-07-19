@@ -69,17 +69,27 @@ Objective: Summarize the findings from all dashboards to provide clear and actio
 - Insights Generation.
 
 ## Project Insights
+
 •	 Identified monthly trends in patient visits and healthcare performance.
+
 •	 Analyzed patient demographics, medical conditions, and department-wise data.
+
 •	 Monitored key KPIs through interactive dashboards and drill-down reports.
+
 •	 Reduced manual reporting and enabled faster, data-driven decision-making.
+
 •	 Improved visibility into hospital operations with real-time insights.
 
 ## Final Conclude 
+
 •	Reduced manual reporting time. 
+
 •	Improved visibility into hospital performance. 
+
 •	Enabled faster identification of trends and anomalies. 
+
 •	Supported better resource allocation and operational planning. 
+
 •	Enhanced decision-making through interactive Power BI visualizations.
 
 
