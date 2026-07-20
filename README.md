@@ -10,10 +10,10 @@ The objective of this project is to build an interactive healthcare dashboard th
 <a href="https://github.com/Ajaytheanalysthub/Data_Analyst_Project/blob/main/Helathcare%20Project.pbit">View Dashboard</a>
 
 ## Dashboard Snapshot
-<a href="https://github.com/Ajaytheanalysthub/Data_Analyst_Project/blob/main/Heathcare%20Project%20dashboard%20Sheet%201.jpg">Snapshot View 1</a>
-<a href="https://github.com/Ajaytheanalysthub/Data_Analyst_Project/blob/main/Heathcare%20Project%20dashboard%20page%202.jpg">Snapshot View 2</a>
-<a href="https://github.com/Ajaytheanalysthub/Data_Analyst_Project/blob/main/Heathcare%20Project%20dashboard%20page%203.jpg">Snapshot View 3</a>
-<a href="https://github.com/Ajaytheanalysthub/Data_Analyst_Project/blob/main/Heathcare%20Project%20dashboard%20page%204.jpg">Snapshot View 4</a>
+<a href="https://github.com/Ajaytheanalysthub/Data_Analyst_Project/blob/main/Helathcare%20Project%20dashboard%20Page%201.jpg">Snapshot View 1</a>
+<a href="https://github.com/Ajaytheanalysthub/Data_Analyst_Project/blob/main/Helathcare%20Project%20dashboard%20Page%202.jpg">Snapshot View 2</a>
+<a href="https://github.com/Ajaytheanalysthub/Data_Analyst_Project/blob/main/Helathcare%20Project%20dashboard%20Page%203.jpg">Snapshot View 3</a>
+<a href="https://github.com/Ajaytheanalysthub/Data_Analyst_Project/blob/main/Helathcare%20Project%20dashboard%20Page%204.jpg">Snapshot View 4</a>
 
 ## HOSPITAL EMERGENCY ROOM DASHBOARD BUSINESS REQUIREMENTS
 
